@@ -1023,7 +1023,7 @@ ui:
     flag_success: 感謝您的標記
     forbidden_operate_self: 禁止自己操作
     review: 您的修訂將在審核通過後顯示。
-    sent_success: Sent successfully
+    sent_success: 傳送成功
   related_question:
     title: 相關問題
     answers: 個回答
@@ -1035,7 +1035,7 @@ ui:
     search: Search people
   question_detail:
     action: Action
-    Asked: 提問於
+    Asked: 質問于
     asked: 提問於
     update: 修改於
     edit: 最後編輯於
@@ -1053,7 +1053,7 @@ ui:
     answer_useful: It is useful
     answer_un_useful: It is not useful
     answers:
-      title: 個回答
+      title: 返信
       score: 評分
       newest: 最新
       btn_accept: 採納
